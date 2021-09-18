@@ -1,7 +1,7 @@
 {
     "id": 3148,
-    "wordhead": "凵",
-    "explanation": "凵盧，飯器，以柳爲之。象形。凡凵之屬皆从凵。",
+    "wordhead": "𠙴",
+    "explanation": "𠙴盧，飯器，以柳爲之。象形。凡𠙴之屬皆从𠙴。",
     "volume": "05",
     "radical": "𠙴",
     "pronunciation": "去魚切",
@@ -16,7 +16,7 @@
     "pinyin": "qu",
     "pinyin_full": "qū",
     "components": [
-        "凵",
+        "𠙴",
         "竹",
         "去"
     ],
@@ -41,7 +41,7 @@
         }
     ],
     "indexes": [
-        "凵",
+        "𠙴",
         "𥬔"
     ]
 }
